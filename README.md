@@ -8,6 +8,8 @@ I graduated from [Neumont](https://www.neumont.edu/) with a Bachelors in Softwar
 
 ### What are my plans
 Right now I am working on a Speedrunning tool for Super Mario 64 Speedrunners! I have many project ideas to hopefully help runners improve more efficiently and faster. It also might look really cool :) 
+## The name of this speedrunning tool? _PokeyPrac_
+Find the git repo in my pinned repos :)
 
 <!---
 wmejiapalma/wmejiapalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
