@@ -7,7 +7,7 @@ I graduated from [Neumont](https://www.neumont.edu/) with a Bachelors in Softwar
 - Quirky keyboards are my thing too, I currently use a 42 key ortholinear row staggered split keyboard (Corne). I manually built this keyboard and learned soldering from building this keyboard (it was an upgrade from the iris keyboard). 
 
 ### What are my plans
-Currently I am learning Rust but I do have plans to work on PokeyPrac in the future. PokeyPrac is a tool to help speedrunners track their progress.
+1. Currently creating a python library to make it easier to interact with the Speedrun.com(SRC) API to retrieve data and create data visualizations of speedrun leaderboards/games
 
 <!---
 wmejiapalma/wmejiapalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
